@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "name": "alask.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node node.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
