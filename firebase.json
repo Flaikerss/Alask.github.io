@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "public/file:///C:/Users/User/Alask.github.io/index.html/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
